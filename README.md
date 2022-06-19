@@ -17,7 +17,7 @@ Our Application implements a resource allocation and deadlock avoidance algorith
 <h2 align="center">How to Compile and Run the Code</h2>
 
 * **Step 1 : Download The Source Code** : Download and save the compressed source file Bankers-Algo-main.zip. Once download, extract the file to your choose file destination 
-* **Step 2 : Compile the Executable Code** : Compile and Link (aka Build) the source code "inFile.cpp" into executable code ("infile.exe" in Windows or "inFile" in UNIX/Linux/Mac
+* **Step 2 : Compile the Executable Code** : Compile and Link (aka Build) the source code "inFile.cpp" into executable code ("infile.exe" in Windows or "inFile" in UNIX/Linux/Mac)
   - On IDE (such as CodeBlocks), push the "Build" button.
   - On Text editor with the GNU GCC compiler, start a CMD Shell (Windows) or Terminal (UNIX/Linux/Mac) and issue these commands: 
   

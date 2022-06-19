@@ -23,10 +23,10 @@ Our Application implements a resource allocation and deadlock avoidance algorith
   
     ```
     // Windows (CMD shell) - Build "inFile.cpp" into "inFile.exe"
-    > g++ -o hello.exe hello.cpp
+    > g++ -o inFile.exe inFile.cpp
  
     // UNIX/Linux/Mac (Bash shell) - Build "inFile.cpp" into "inFile"
-    $ g++ -o hello hello.cpp
+    $ g++ -o inFile inFile.cpp
     }
     ```
 * **Step 3 : Run the Executable Code** : Execute (Run) the program.
@@ -45,10 +45,31 @@ Our Application implements a resource allocation and deadlock avoidance algorith
     
     System is in safe state
     Safe sequence is 0 1 2 3 4 
-    Enter the process number and the new allocation values to check whether it will be successful: 
+    Enter the process number and the new allocation values to check whether it will be successful: 1 1 0 2
+    0
+    
+    Enter the process number and the new allocation values to check whether it will be successful: 4 3 3 0
+    -1
+    
+    Enter the process number and the new allocation values to check whether it will be successful: 0 0 0 0 
+    -1
  
     // UNIX/Linux/Mac (Bash shell) - Run "inFile" 
     $ ./inFile
-    hello, world
-    }
+    Process 0 is finished.
+    Process 1 is finished.
+    Process 2 is finished.
+    Process 3 is finished.
+    Process 4 is finished.
+    
+    System is in safe state
+    Safe sequence is 0 1 2 3 4 
+    Enter the process number and the new allocation values to check whether it will be successful: 1 1 0 2
+    0
+    
+    Enter the process number and the new allocation values to check whether it will be successful: 4 3 3 0
+    -1
+    
+    Enter the process number and the new allocation values to check whether it will be successful: 0 0 0 0 
+    -1
     ```

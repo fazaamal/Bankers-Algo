@@ -3,7 +3,7 @@
    GROUP MEMBERS | MATRIC NO
 ------------ | -------------
 HAFSA BINTE MAHBUB | 2024364
-FAZA AMAL SOPHIAN | Content column 2
+FAZA AMAL SOPHIAN | 2027009
 FAZA AMAL SOPHIAN | Content column 2
 FAZA AMAL SOPHIAN | Content column 2
 

@@ -4,8 +4,8 @@
 ------------ | -------------
 HAFSA BINTE MAHBUB | 2024364
 FAZA AMAL SOPHIAN | 2027009
-FAZA AMAL SOPHIAN | Content column 2
-FAZA AMAL SOPHIAN | Content column 2
+FADWA RAMADAN ALI HASSAN	| 2024334
+MUHAMMAD YUSOFF BIN JAMALUDDIN | 2016799
 
 <h2 align="center">Introduction</h2>
 Our Application implements a resource allocation and deadlock avoidance algorithm also reffered to as the "Bankers Algorithm". The program will read from an input .txt file that contains the maximum and allocation matrix of a six different threads then proced to run a Safety algorithm on the input and output the order in which the threads can execute in a safe state. The program will then output the result from the following requests: 
